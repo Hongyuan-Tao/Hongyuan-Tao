@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, this is Hongyuan Tao.
 
-<!--
-**Hongyuan-Tao/Hongyuan-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 I received my bachelor's degree from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I am currently pursuing a Ph.D. at HUST under the supervision of [Prof. Xinggang Wang](https://faculty.hust.edu.cn/xwang/zh_CN/index.htm).
+
+🌱 My research interests focus on efficient and long-horizon Physical AI.
+
+## 🤝 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-hongyuantao%40hust.edu.cn-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:hongyuantao@hust.edu.cn)
