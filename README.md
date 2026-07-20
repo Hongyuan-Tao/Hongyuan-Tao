@@ -4,9 +4,9 @@
 
 🎓 I received my bachelor's degree from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in 2025.
 
-📚 I am currently pursuing a Ph.D. at HUST under the supervision of [Prof. Xinggang Wang](https://faculty.hust.edu.cn/xwang/zh_CN/index.htm).
+📚 I am currently pursuing a Ph.D. at HUST under the supervision of [Prof. Xinggang Wang](https://xwcv.github.io/index.htm).
 
-🌱 My research interests focus on efficient and long-horizon Physical AI.
+🌱 My research interests focus on Efficient and Long-horizon Physical AI.
 
 ## 🤝 Connect with Me
 
